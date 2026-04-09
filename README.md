@@ -15,6 +15,12 @@ This repository accompanies the manuscript:
 >
 > *(2026)*
 
+<p align="center">
+  <img src="figures/Figure1.png" alt="Figure 1" width="900">
+</p>
+
+*Figure 1. **(A)** Protein-to-circuit mapping — residues as nodes, contacts as resistors, mutation as perturbation. **(B)** S2648 benchmark: Pearson r comparison with 15 published ΔΔG methods. **(C)** Top 20 circuit-theoretic features by Gradient Boosting importance. **(D)** Predicted vs. experimental ΔΔG (n = 1,588, r = 0.656, RMSE = 1.61 kcal/mol).*
+
 ---
 
 ## Key Concepts
