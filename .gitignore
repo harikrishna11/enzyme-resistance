@@ -1,0 +1,28 @@
+# Downloaded datasets and PDB structures (can be large) — repo root only
+/data/
+
+# Benchmark results
+benchmark_results*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Tests
+.pytest_cache/
