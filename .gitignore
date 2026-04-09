@@ -1,6 +1,9 @@
 # Downloaded datasets and PDB structures (can be large) — repo root only
 /data/
 
+# Manuscript (not part of the package)
+manuscript/
+
 # Benchmark results
 benchmark_results*/
 
