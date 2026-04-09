@@ -1,0 +1,90 @@
+pdb_id,chain,position,wild_type,mutation,ddG,pH,temperature,protein_name,dataset
+1LZ1,A,3,V,A,-0.8,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,10,G,A,0.5,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,14,R,K,-0.3,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,20,Y,F,-1.2,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,31,K,A,-0.6,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,40,T,A,-1.0,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,54,D,N,-0.4,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,66,W,F,-2.5,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,87,D,A,-1.8,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,91,N,A,-0.5,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,102,A,G,-1.1,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,107,W,Y,-1.7,7.0,25.0,Hen egg-white lysozyme,builtin
+1LZ1,A,112,R,A,-0.9,7.0,25.0,Hen egg-white lysozyme,builtin
+1BNI,A,3,A,G,-1.1,7.0,25.0,Barnase,builtin
+1BNI,A,15,I,A,-3.2,7.0,25.0,Barnase,builtin
+1BNI,A,16,L,A,-2.8,7.0,25.0,Barnase,builtin
+1BNI,A,24,Y,A,-2.3,7.0,25.0,Barnase,builtin
+1BNI,A,26,V,A,-1.5,7.0,25.0,Barnase,builtin
+1BNI,A,36,L,A,-2.0,7.0,25.0,Barnase,builtin
+1BNI,A,51,I,V,-0.7,7.0,25.0,Barnase,builtin
+1BNI,A,53,Y,F,-0.4,7.0,25.0,Barnase,builtin
+1BNI,A,70,I,A,-2.1,7.0,25.0,Barnase,builtin
+1BNI,A,85,V,A,-1.9,7.0,25.0,Barnase,builtin
+1BNI,A,88,L,A,-3.0,7.0,25.0,Barnase,builtin
+1BNI,A,95,I,A,-2.5,7.0,25.0,Barnase,builtin
+1BNI,A,102,V,A,-1.4,7.0,25.0,Barnase,builtin
+1STN,A,15,A,G,-0.8,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,21,T,A,-0.6,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,23,L,A,-2.7,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,25,A,V,0.3,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,27,V,A,-2.2,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,66,V,A,-2.0,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,69,I,A,-1.5,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,72,V,G,-3.5,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,90,L,A,-2.3,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,91,E,A,-0.4,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,92,A,G,-0.9,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,98,M,A,-1.4,7.0,25.0,Staphylococcal nuclease,builtin
+1STN,A,99,V,A,-2.6,7.0,25.0,Staphylococcal nuclease,builtin
+2LZM,A,3,M,A,-1.0,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,9,I,A,-2.8,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,17,L,A,-3.5,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,29,I,V,-0.5,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,33,F,A,-3.1,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,46,L,A,-2.3,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,49,E,K,-0.4,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,57,L,A,-2.9,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,60,A,G,-1.2,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,67,A,V,0.4,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,84,V,A,-1.8,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,99,A,G,-0.7,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,118,V,A,-2.1,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,133,A,G,-0.9,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,146,L,A,-3.3,7.0,25.0,T4 Lysozyme,builtin
+2LZM,A,153,I,A,-2.4,7.0,25.0,T4 Lysozyme,builtin
+2RN2,A,4,E,A,-0.6,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,10,A,G,-1.0,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,18,L,A,-2.0,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,28,V,A,-2.5,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,46,I,A,-3.0,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,50,V,G,-3.8,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,56,A,G,-0.5,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,67,L,A,-1.9,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,77,I,V,-0.6,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,85,A,G,-0.8,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,95,V,A,-1.4,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,109,L,A,-2.7,7.0,25.0,Ribonuclease H,builtin
+2RN2,A,121,I,A,-2.2,7.0,25.0,Ribonuclease H,builtin
+1RGG,A,3,T,A,-0.5,7.0,25.0,RNase Sa,builtin
+1RGG,A,7,V,A,-2.1,7.0,25.0,RNase Sa,builtin
+1RGG,A,13,Y,A,-2.8,7.0,25.0,RNase Sa,builtin
+1RGG,A,22,I,A,-3.0,7.0,25.0,RNase Sa,builtin
+1RGG,A,33,L,A,-2.3,7.0,25.0,RNase Sa,builtin
+1RGG,A,42,V,G,-3.1,7.0,25.0,RNase Sa,builtin
+1RGG,A,51,E,A,-0.4,7.0,25.0,RNase Sa,builtin
+1RGG,A,58,A,G,-0.7,7.0,25.0,RNase Sa,builtin
+1RGG,A,65,D,N,-0.3,7.0,25.0,RNase Sa,builtin
+1RGG,A,72,L,A,-1.8,7.0,25.0,RNase Sa,builtin
+1RGG,A,81,V,A,-1.5,7.0,25.0,RNase Sa,builtin
+1RGG,A,90,I,V,-0.6,7.0,25.0,RNase Sa,builtin
+2CI2,I,2,K,A,-0.2,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,8,L,A,-3.4,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,16,V,A,-2.5,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,20,A,G,-1.2,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,28,V,A,-1.8,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,47,I,V,-0.8,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,49,L,A,-2.6,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,51,V,A,-2.0,7.0,25.0,Chymotrypsin inhibitor 2,builtin
+2CI2,I,57,A,G,-0.9,7.0,25.0,Chymotrypsin inhibitor 2,builtin

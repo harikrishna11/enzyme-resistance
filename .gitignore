@@ -1,11 +1,8 @@
-# Downloaded datasets and PDB structures (can be large) — repo root only
-/data/
+# PDB structures (large, downloadable from RCSB)
+/data/pdb/
 
 # Manuscript (not part of the package)
 manuscript/
-
-# Benchmark results
-benchmark_results*/
 
 # Python
 __pycache__/
