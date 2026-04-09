@@ -5,7 +5,7 @@
 
 ## Overview
 
-**enzyme-resistance** is a Python package that models mutation propagation through protein structures using **circuit theory**. Residues are nodes, non-covalent contacts are resistors (conductance-weighted edges), and mutations perturb resistor values at the mutation site. Effective resistance, Kirchhoff current flow, and spectral properties of the resulting circuit capture how a single-point mutation's effect propagates allosterically through the protein — enabling prediction of experimental ΔΔG (thermodynamic stability change).
+**Enzyme-Resistance** is a Python package that models mutation propagation through protein structures using **circuit theory**. Residues are nodes, non-covalent contacts are resistors (conductance-weighted edges), and mutations perturb resistor values at the mutation site. Effective resistance, Kirchhoff current flow, and spectral properties of the resulting circuit capture how a single-point mutation's effect propagates allosterically through the protein — enabling prediction of experimental ΔΔG (thermodynamic stability change).
 
 This repository accompanies the manuscript:
 
