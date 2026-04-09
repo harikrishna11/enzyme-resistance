@@ -338,5 +338,5 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **Harikrishna Sekar Jayanthan**
 Senior Scientist, Evotec UK / Syngene BBRC Bangalore
-hari.jayanthan@recursion.com
+haricoolguy111@gmail.com
 GitHub: [@harikrishna11](https://github.com/harikrishna11)
