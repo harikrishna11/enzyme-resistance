@@ -9,9 +9,9 @@
 
 This repository accompanies the manuscript:
 
-> **Ohm's Law Meets Protein Folding: An Electrical Resistance Model of Mutation Propagation in Enzymes**
+> **Enzyme-Resistance: Predicting Mutation Effects on Protein Stability Using Electrical Circuit Theory**
 >
-> Hari Jayanthan
+> Harikrishna Sekar Jayanthan
 >
 > *(2026)*
 
@@ -319,8 +319,8 @@ If you use this package or data, please cite:
 
 ```bibtex
 @article{jayanthan2026enzyme_resistance,
-  title   = {Ohm's Law Meets Protein Folding: An Electrical Resistance Model
-             of Mutation Propagation in Enzymes},
+  title   = {Enzyme-Resistance: Predicting Mutation Effects on Protein Stability Using Electrical Circuit Theory
+},
   author  = {Jayanthan, Hari},
   year    = {2026}
 }
@@ -336,7 +336,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Contact
 
-**Hari Jayanthan**
-Research Investigator, Recursion / Syngene BBRC Bangalore
+**Harikrishna Sekar Jayanthan**
+Senior Scientist, Evotec UK / Syngene BBRC Bangalore
 hari.jayanthan@recursion.com
 GitHub: [@harikrishna11](https://github.com/harikrishna11)
